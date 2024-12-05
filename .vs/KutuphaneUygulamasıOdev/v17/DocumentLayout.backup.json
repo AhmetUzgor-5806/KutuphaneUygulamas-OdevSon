@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\controller\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\controller\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\db\\requestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\db\\requestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\db\\interfaces\\iuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\db\\interfaces\\iuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\service\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\service\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\db\\bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\db\\bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\service\\interfaces\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\service\\interfaces\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\db\\interfaces\\irequestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\db\\interfaces\\irequestdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\db\\interfaces\\ibookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\db\\interfaces\\ibookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|c:\\users\\ms\u0131\\desktop\\ahmet denemeler\\kutuphaneuygulamas\u0131odev\\kutuphaneuygulamas\u0131odev\\entity\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9ED896-C70F-4642-B038-5B73C9416F7D}|KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev.csproj|solutionrelative:kutuphaneuygulamas\u0131odev\\entity\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\Program.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\Program.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:58:43.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Requestdb.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\Requestdb.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\db\\Requestdb.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\Requestdb.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\db\\Requestdb.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:57:34.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\controller\\UserController.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\controller\\UserController.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\controller\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:25:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\controller\\BookController.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\controller\\BookController.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\controller\\BookController.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\controller\\BookController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:33:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IUserService.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:24:33.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\entity\\User.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\entity\\User.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\entity\\User.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:31:05.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\UserService.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\service\\UserService.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\UserService.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\service\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:49:56.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserdb.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IUserdb.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IUserdb.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IUserdb.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IUserdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:50:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Userdb.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\Userdb.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\db\\Userdb.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\Userdb.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\db\\Userdb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:50:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\RequestService.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\service\\RequestService.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\RequestService.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\service\\RequestService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:00:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bookdb.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\Bookdb.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\db\\Bookdb.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\Bookdb.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\db\\Bookdb.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:41:23.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\controller\\RequestController.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\controller\\RequestController.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\controller\\RequestController.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\controller\\RequestController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:02:03.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IBookService.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:03.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IRequestService.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IRequestService.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IRequestService.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\service\\interfaces\\IRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:01:42.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRequestdb.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IRequestdb.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IRequestdb.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IRequestdb.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IRequestdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:59:57.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookdb.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IBookdb.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IBookdb.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IBookdb.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\db\\interfaces\\IBookdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\BookService.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\service\\BookService.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\service\\BookService.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\service\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\entity\\Request.cs",
+              "RelativeDocumentMoniker": "KutuphaneUygulamas\u0131Odev\\entity\\Request.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\Desktop\\AHMET DENEMELER\\KutuphaneUygulamas\u0131Odev\\KutuphaneUygulamas\u0131Odev\\entity\\Request.cs",
+              "RelativeToolTip": "KutuphaneUygulamas\u0131Odev\\entity\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:42:03.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.exe
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.deps.json
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.runtimeconfig.json
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.pdb
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.AssemblyInfoInputs.cache
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.AssemblyInfo.cs
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\refint\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.pdb
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.genruntimeconfig.cache
+C:\Users\msı\source\repos\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\ref\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.exe
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.deps.json
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.runtimeconfig.json
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\bin\Debug\net8.0\KutuphaneUygulamasıOdev.pdb
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.AssemblyInfoInputs.cache
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.AssemblyInfo.cs
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.csproj.CoreCompileInputs.cache
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\refint\KutuphaneUygulamasıOdev.dll
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.pdb
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\KutuphaneUygulamasıOdev.genruntimeconfig.cache
+C:\Users\msı\Desktop\AHMET DENEMELER\KutuphaneUygulamasıOdev\KutuphaneUygulamasıOdev\obj\Debug\net8.0\ref\KutuphaneUygulamasıOdev.dll
